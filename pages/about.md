@@ -15,13 +15,17 @@ credits: true
 ## About the Collection
 
 Background of the railroad suspension bridge
+
 The Niagara Falls Suspension Bridge was the world's first operating railroad suspension bridge, standing across the Niagara River from 1855 to 1897. It stretches 825 feet (251 metres) and connects Niagara Falls, Ontario, to Niagara Falls, New York, 2.5 miles (4.0 kilometres) downstream. The bridge is part of Canadian politician William Hamilton Merritt's plan to increase domestic and international trade.
+
 The Niagara Suspension Bridge connects Canada with the United States and has played a significant part in the history of both the Niagara area and the two countries. This bridge is crossed by three rail lines that connect cities on both sides of the border.
 The name was changed to Whirlpool Rapids Bridge on August 27, 1897, after it was replaced by a stronger steel and iron version in 1886.
 Terrapin Tower
+
 General Parkhurst Whitney erected Terrapin Tower in 1829 as a circular tower 12m high and 3.7m in diameter out of rough stone obtained locally. A winding staircase rises to the top of this tower, where a smaller entrance opens to an external circular balcony secured by hefty metal railings. Guests may enjoy unrivalled views of the falls and the boiling gorge below from this balcony. Terrapin Tower was purposefully demolished in 1872 to prevent rivalry with the new Prospect Park tower. Those plans for a new tower never came to fruition, and no replacement tower was erected.
 The timber walkway remained in existence for many years after Terrapin Tower was destroyed. It was in place until 1905.
 Luna Island
+
 Originally known as Prospect Island, it was renamed Luna Island when legendary lunar rainbows were observed over it on clear moonlight evenings in the 1800s. Unfortunately, due to the Falls' nightly illumination, moon rainbows are rarely observed today.
 Luna Island is about 3/4 of an acre in size and is mostly made up of a thick covering of dolostone rock. Luna Island was formerly covered in white cedar trees.
 Luna Island was closed to the public in 1954. This was due to the fact that the bedrock beneath the island had grown unstable, and there was concern that rock might fall off the island. Luna Island was off-limits to the public until 1972. The de-watering of the American Falls in 1969 enabled anti-erosion operations, including the removal of loose rock, which helped to stabilise the island.
