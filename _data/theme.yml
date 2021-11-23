@@ -10,7 +10,7 @@
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
 featured-image: https://tse1-mm.cn.bing.net/th/id/R-C.69d98d0ded33dfcc20a73e90fb685496?rik=ES2z9xXxbFmL1Q&riu=http%3a%2f%2fwww.zhidiy.com%2fuploadfile%2f201407%2f15%2f1324566865.jpg&ehk=MHopjhIFlpW%2b4Reo2mXrnJJFJKGvPrbwJL7wmQ%2fMg%2fs%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1
 # optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding: 8em
+home-title-y-padding: 4em
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: center
 
