@@ -44,7 +44,7 @@ The islands are named after General Parkhurst Whitney's daughters, Celinda, Ange
 
 
 
-                                                                       Bibliography:
+                                                                       Bibliography
 "Niagara Falls Suspension Bridge - Wikipedia". En.Wikipedia.Org, 2021, https://en.wikipedia.org/wiki/Niagara_Falls_Suspension_Bridge. 
 
 "Niagara Clifton Bridge - Wikipedia". En.Wikipedia.Org, 2021, https://en.wikipedia.org/wiki/Niagara_Clifton_Bridge. 
@@ -57,7 +57,7 @@ Niagarafallslive.Com, 2021, https://www.niagarafallslive.com/prospect_point_park
 
 "Niagara River Islands History - Goat Island, Niagara Falls USA". Niagara Falls Info, 2021, https://www.niagarafallsinfo.com/niagara-falls-history/niagara-falls-geology/upper-niagara-river-islands/goat-island/. 
 
- "Tightrope Walkers | Niagara Falls Public Library". My.Nflibrary.Ca, 2021, https://my.nflibrary.ca/HistoricNiagara/DigitalExhibits/TightropeWalkers. 
+"Tightrope Walkers | Niagara Falls Public Library". My.Nflibrary.Ca, 2021, https://my.nflibrary.ca/HistoricNiagara/DigitalExhibits/TightropeWalkers. 
 
 "History Of Niagara Falls Daredevils - Henry Bellini". Niagara Falls Info, 2021, https://www.niagarafallsinfo.com/niagara-falls-history/niagara-falls-tourism-history/daredevils-of-niagara-falls/henry-bellini/. 
 
