@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-                                                      Background of the railroad suspension bridge
+                                                     ## Background of the railroad suspension bridge
 The Niagara Falls Suspension Bridge was the world's first operating railroad suspension bridge, standing across the Niagara River from 1855 to 1897. It stretches 825 feet (251 metres) and connects Niagara Falls, Ontario, to Niagara Falls, New York, 2.5 miles (4.0 kilometres) downstream. The bridge is part of Canadian politician William Hamilton Merritt's plan to increase domestic and international trade.
 The Niagara Suspension Bridge connects Canada with the United States and has played a significant part in the history of both the Niagara area and the two countries. This bridge is crossed by three rail lines that connect cities on both sides of the border.
 The name was changed to Whirlpool Rapids Bridge on August 27, 1897, after it was replaced by a stronger steel and iron version in 1886.
