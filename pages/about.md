@@ -32,11 +32,6 @@ Originally known as Prospect Island, it was renamed Luna Island when legendary l
 Luna Island is about 3/4 of an acre in size and is mostly made up of a thick covering of dolostone rock. Luna Island was formerly covered in white cedar trees.
 Luna Island was closed to the public in 1954. This was due to the fact that the bedrock beneath the island had grown unstable, and there was concern that rock might fall off the island. Luna Island was off-limits to the public until 1972. The de-watering of the American Falls in 1969 enabled anti-erosion operations, including the removal of loose rock, which helped to stabilise the island.
 
-Goat Island
-
-Goat Island was called by John Stedman in the 1770s when he utilised the island to grow a herd of goats. All but one of the goats died during the bitterly cold winter of 1780. In 1795, John Stedman departed Niagara. Stedman gave his property to a friend, and in 1801 Stedman transferred ownership to the State of New York, including Goat Island.
-Goat Island was renamed Iris Island by General Augustus Porter, a United States Commissioner, after the Greek Goddess of the Rainbow. Because people objected to the name change, the island was renamed Goat Island. Goat Island had seen minimal development by 1806. Bears and wolves were typical sightings, as was a plethora of deer. Augustus Porter purchased Goat Island from the State of New York in 1816. He constructed a wooden bridge from the mainland to the upper end of the island in 1817. The next winter, ice damaged this bridge. So, in 1818, Porter constructed another bridge to Goat Island, this time closer to the Falls. This bridge was rebuilt by an iron bridge in 1856. The State of New York established the New York State Niagara Reservation Park on July 15, 1885. Locals referred to Deer Island as the largest and closest island to the Goat Island beach.
-
 Tightrope Walkers
 
 Since the 1800s, daredevils have walked over the Niagara canyon on a tightrope. Its apparent dangers keep viewers interested, and funambulists have utilised a variety of gimmicks to cross the wires, including stilts, bicycles, and walking backwards.
