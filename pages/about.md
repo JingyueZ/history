@@ -48,6 +48,19 @@ In the visual art of 19th century Niagara, the falls certainly carry a stunning 
 
 George E. Curtis' photographs are characterized by a combination of nature and industrialization. His photographs document the coexistence of natural and human-engineered wonders for which Niagara is famous in the 19th century. But at the same time, the natural beauty of the Niagara region is diminishing because of industrialization. George E. Curtis documents the changes in Niagara with tourism and industrialization by photographing some of the buildings and events of the time. It also wants to express the ever-changing and competing concepts of nature.
 
+image list
+1.	George E. Curtis Photographs of Niagara Falls collection, ca1860s-1870s，photograph116， https://dr.library.brocku.ca/handle/10464/14719  
+2.	George E. Curtis Photographs of Niagara Falls collection, ca1860s-1870s，photograph59， https://dr.library.brocku.ca/handle/10464/14682 
+3.	George E. Curtis Photographs of Niagara Falls collection, ca1860s-1870s，photograph21， https://dr.library.brocku.ca/handle/10464/14651 
+4.	George E. Curtis Photographs of Niagara Falls collection, ca1860s-1870s，The New Suspension Bridge and Falls https://dr.library.brocku.ca/handle/10464/12857 
+5.	George E. Curtis Photographs of Niagara Falls collection, ca1860s-1870s，photograph74，https://dr.library.brocku.ca/handle/10464/14694 
+6.	George E. Curtis Photographs of Niagara Falls collection, ca1860s-1870s，photographA，https://dr.library.brocku.ca/handle/10464/14723 
+7.	George E. Curtis Photographs of Niagara Falls collection, ca1860s-1870s，photograph77，https://dr.library.brocku.ca/handle/10464/14696 
+8.	George E. Curtis Photographs of Niagara Falls collection, ca1860s-1870s，photograph34，https://dr.library.brocku.ca/handle/10464/14662 
+9.	George E. Curtis Photographs of Niagara Falls collection, ca1860s-1870s，photographB，https://dr.library.brocku.ca/handle/10464/14724 
+10.	George E. Curtis Photographs of Niagara Falls collection, ca1860s-1870s，photograph122，https://dr.library.brocku.ca/handle/10464/14721 
+11.	George E. Curtis Photographs of Niagara Falls collection, ca1860s-1870s，photograph27，https://dr.library.brocku.ca/handle/10464/14656 
+12.	George E. Curtis Photographs of Niagara Falls collection, ca1860s-1870s，photograph20，https://dr.library.brocku.ca/handle/10464/14648
 
 
 
