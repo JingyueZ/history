@@ -53,6 +53,16 @@ In the visual art of 19th century Niagara, the falls certainly carry a stunning 
 
 George E. Curtis' photographs are characterized by a combination of nature and industrialization. His photographs document the coexistence of natural and human-engineered wonders for which Niagara is famous in the 19th century. But at the same time, the natural beauty of the Niagara region is diminishing because of industrialization. George E. Curtis documents the changes in Niagara with tourism and industrialization by photographing some of the buildings and events of the time. It also wants to express the ever-changing and competing concepts of nature.
 
+
+
+
+
+
+
+
+
+
+
 Bibliography
 
 "Niagara Falls Suspension Bridge - Wikipedia". En.Wikipedia.Org, 2021, https://en.wikipedia.org/wiki/Niagara_Falls_Suspension_Bridge. 
