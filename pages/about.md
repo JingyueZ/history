@@ -45,6 +45,14 @@ Three Sisters Islands (New York)
 
 The islands are named after General Parkhurst Whitney's daughters, Celinda, Angelina, and Asenath Whitney (all three are buried at Oakwood Cemetery in Niagara Falls, New York). General Whitney (who is also buried at Oakwood Cemetery) was a famous early pioneer in Niagara Falls, New York. In 1810, the General relocated to Niagara Falls, New York, and is most known as the creator and operator of the Cataract House Hotel, which is located near the falls above the rapids. The first people to walk to the three islands are thought to have been General Whitney's daughters.
 
+Visual Culture of Niagara in the 19th Century.
+
+Niagara is famous for its breathtaking scenery. In the 19th century, the growth of the tourism industry brought about a steady development of the building infrastructure. Many bridges like the Three Sisters Bridge have been built between the various islands. It allows visitors to touch nature. The falls have also been transformed from a dangerous wilderness to a comfortable tourist attraction. People can enjoy the magnificent view of the waterfall during the day. You can also take pictures of the colorful falls light show at night. Especially from the 1860s onwards, as the region embraced technological and commercial interventions. Niagara region, a number of natural parks and reserves were established to protect the land around the falls. At the same time, engineers and investors built several hydroelectric power plants near the reserve and developed more industries in the vicinity. Both developments have attracted more travelers to the area. to witness the wonders of the region's new landscapes and new technologies. This in turn inspired new forms of travel writing, celebrating the natural grandeur of the waterfall's restoration and its new industrial sublimity.
+
+In the visual art of 19th century Niagara, the falls certainly carry a stunning visual effect. The main feature of the waterfall is the magnificent landscape, both provided by nature and by the technical and tourist infrastructure that exploits it.
+
+George E. Curtis' photographs are characterized by a combination of nature and industrialization. His photographs document the coexistence of natural and human-engineered wonders for which Niagara is famous in the 19th century. But at the same time, the natural beauty of the Niagara region is diminishing because of industrialization. George E. Curtis documents the changes in Niagara with tourism and industrialization by photographing some of the buildings and events of the time. It also wants to express the ever-changing and competing concepts of nature.
+
 Bibliography
 
 "Niagara Falls Suspension Bridge - Wikipedia". En.Wikipedia.Org, 2021, https://en.wikipedia.org/wiki/Niagara_Falls_Suspension_Bridge. 
@@ -63,6 +71,8 @@ Niagarafallslive.Com, 2021, https://www.niagarafallslive.com/prospect_point_park
 
 
 "History Of Niagara Falls Daredevils - Henry Bellini". Niagara Falls Info, 2021, https://www.niagarafallsinfo.com/niagara-falls-history/niagara-falls-tourism-history/daredevils-of-niagara-falls/henry-bellini/. 
+
+Haas, Astrid. “Currents of Progress, Toy Store for Tourists: Nineteenth-Century Mexican Liberals View the Niagara Falls.” Journal of transnational American studies 10.2 (2019): n. pag. Web.
 
 "Three Sisters Islands (New York) - Wikipedia". En.Wikipedia.Org, 2021, https://en.wikipedia.org/wiki/Three_Sisters_Islands_(New_York). 
 
